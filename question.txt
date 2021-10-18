@@ -1,0 +1,10 @@
+Create an unordered list of 5 items.
+Display a textbox and a button at the bottom of the list to add new items to the list.
+
+The user should be able to enter the item name to be added in the textbox and click on the button to add it at the bottom of the list.
+
+If the textbox is empty and the button is clicked, provide an error message.
+
+Clicking on an existing item in the list should remove the item from the list.
+
+Implement using JQuery and use CSS for designing.

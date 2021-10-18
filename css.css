@@ -1,0 +1,19 @@
+
+body{
+    background-color: cornflowerblue;
+}
+
+label{
+    color: brown;
+    font-size: larger;
+}
+button{
+    background-color: burlywood;
+    align-items: center;
+}
+
+input{
+    display: flex;
+    background-color: coral;
+    align-items: center;
+}
